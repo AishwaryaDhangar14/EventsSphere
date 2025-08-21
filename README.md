@@ -9,7 +9,7 @@ A web-based event management system designed for academic, cultural, and social 
 ## 🛠️ Tech Stack
 - Frontend: HTML, CSS, JavaScript  
 - Backend: PHP
-- Database: MYSQL
+- Database: SQL
 
 ---
 👩‍💻 Developed by [Aishwarya Dhangar](https://github.com/AishwaryaDhangar14)
